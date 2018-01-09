@@ -1,0 +1,10 @@
+name: shinyapp
+title:
+username:
+account: gian94
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 255142
+bundleId: 1168632
+url: https://gian94.shinyapps.io/shinyapp/
+when: 1515507754.68949
